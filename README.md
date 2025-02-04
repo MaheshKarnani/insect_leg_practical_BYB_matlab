@@ -11,4 +11,3 @@ Changes januari 2024
 * Removed some variable boxes cleared up some variable names
 * Figure axis labling was made more intuitive
 * Removed question 3.
-* Changed the line plot near question 13 that shows mean spike frequency against stimulus intsity (in arbitrary numbers) to a bar plot with categories. 
